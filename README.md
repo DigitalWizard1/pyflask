@@ -11,4 +11,6 @@ kubectl apply -f deployment.yaml
 kubectl get services
 kubectl get deployments
 minikube start service: flask-test-service
+minikube dashboard &
+
 ```
