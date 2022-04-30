@@ -12,5 +12,6 @@ kubectl get services
 kubectl get deployments
 minikube start service: flask-test-service
 minikube dashboard &
+google-chrome 127.0.0.1:30833 &
 
 ```
