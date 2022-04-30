@@ -4,7 +4,7 @@ FROM python:3.8.10
 # make the working directory in the container
 RUN mkdir /app
 
-# Run this service on port 80
+# Run this service 
 # EXPOSE 5000
 
 # specify where to install the app
